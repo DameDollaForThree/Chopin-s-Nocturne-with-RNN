@@ -5,6 +5,8 @@
 - Project report: [[link to pdf](https://drive.google.com/file/d/1NUtBRJjuNGEqsSulpDBzb65V6U50WA5E/view?usp=sharing)]
 
 
+<img src = 'Chopin_result.png' width=600>
+
 
 ### References:
 - https://towardsdatascience.com/generate-piano-instrumental-music-by-using-deep-learning-80ac35cdbd2e
